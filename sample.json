@@ -1,89 +1,30 @@
-{
-  "belopp i tusental kronor": {
-    "FIELD2":"jun-15"
-  },
-  "UO 1: Rikets styrelse": {
-    "FIELD2":"12 302 574"
-  },
-  "UO 2: Samhällsekonomi och finansförvaltning": {
-    "FIELD2":"14 599 753"
-  },
-  "UO 3: Skatt tull och exekution": {
-    "FIELD2":"10 573 781"
-  },
-  "UO 4: Rättsväsendet": {
-    "FIELD2":"40 774 864"
-  },
-  "UO 5: Internationell samverkan": {
-    "FIELD2":"1 969 062"
-  },
-  "UO 6: Försvar och samhällets beredskap": {
-    "FIELD2":"48 447 160"
-  },
-  "UO 7: Internationellt bistånd": {
-    "FIELD2":"29 279 686"
-  },
-  "UO 8: Migration": {
-    "FIELD2":"17 912 309"
-  },
-  "UO 9: Hälsovård, sjukvård och social omsorg": {
-    "FIELD2":"63 820 381"
-  },
-  "UO 10: Ekonomisk trygghet vid sjukdom och funktionsnedsättning": {
-    "FIELD2":"103 035 087"
-  },
-  "UO 11: Ekonomisk trygghet vid ålderdom": {
-    "FIELD2":"38 148 425"
-  },
-  "UO 12: Ekonomisk trygghet för familjer och barn": {
-    "FIELD2":"83 296 698"
-  },
-  "UO 13: Integration och jämställdhet": {
-    "FIELD2":"16 745 043"
-  },
-  "UO 14: Arbetsmarknad och arbetsliv": {
-    "FIELD2":"69 314 102"
-  },
-  "UO 15: Studiestöd": {
-    "FIELD2":"20 966 680"
-  },
-  "UO 16: Utbildning och universitetsforskning": {
-    "FIELD2":"63 971 917"
-  },
-  "UO 17: Kultur, medier, trossamfund och fritid": {
-    "FIELD2":"13 136 347"
-  },
-  "UO 18: Samhällsplanering, bostadsförsörjning ": {
-    "FIELD2":"1 222 973"
-  },
-  "och byggande samt konsumentpolitik": {
-    "FIELD2":""
-  },
-  "UO 19: Regional tillväxt": {
-    "FIELD2":"2 700 801"
-  },
-  "UO 20: Allmän miljö- och naturvård": {
-    "FIELD2":"5 913 118"
-  },
-  "UO 21: Energi": {
-    "FIELD2":"2 382 609"
-  },
-  "UO 22: Kommunikationer": {
-    "FIELD2":"49 449 983"
-  },
-  "UO 23: Areella näringar, landsbygd och livsmedel": {
-    "FIELD2":"15 680 962"
-  },
-  "UO 24: Näringsliv": {
-    "FIELD2":"5 506 162"
-  },
-  "UO 25: Allmänna bidrag till kommuner": {
-    "FIELD2":"92 304 002"
-  },
-  "UO 26: Statsskuldsräntor m.m.": {
-    "FIELD2":"29 326 200"
-  },
-  "UO 27: Avgiften till Europeiska unionen": {
-    "FIELD2":"40 126 178"
-  }
-}
+[
+  ["Utgiftsområde", "TKR"],
+  ["UO 1: Rikets styrelse", "12 302 574"],
+  ["UO 2: Samhällsekonomi och finansförvaltning","14 599 753"],
+  ["UO 3: Skatt tull och exekution","10 573 781"],
+  ["UO 4: Rättsväsendet","40 774 864"],
+  ["UO 5: Internationell samverkan","1 969 062"],
+  ["UO 6: Försvar och samhällets beredskap","48 447 160"],
+  ["UO 7: Internationellt bistånd","29 279 686"],
+  ["UO 8: Migration","17 912 309"],
+  ["UO 9: Hälsovård, sjukvård och social omsorg","63 820 381"],
+  ["UO 10: Ekonomisk trygghet vid sjukdom och funktionsnedsättning","103 035 087"],
+  ["UO 11: Ekonomisk trygghet vid ålderdom","38 148 425"],
+  ["UO 12: Ekonomisk trygghet för familjer och barn","83 296 698"],
+  ["UO 13: Integration och jämställdhet","16 745 043"],
+  ["UO 14: Arbetsmarknad och arbetsliv","69 314 102"],
+  ["UO 15: Studiestöd","20 966 680"],
+  ["UO 16: Utbildning och universitetsforskning","63 971 917"],
+  ["UO 17: Kultur, medier, trossamfund och fritid","13 136 347"],
+  ["UO 18: Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik","1 222 973"],
+  ["UO 19: Regional tillväxt","2 700 801"],
+  ["UO 20: Allmän miljö- och naturvård","5 913 118"],
+  ["UO 21: Energi","2 382 609"],
+  ["UO 22: Kommunikationer","49 449 983"],
+  ["UO 23: Areella näringar, landsbygd och livsmedel","15 680 962"],
+  ["UO 24: Näringsliv","5 506 162"],
+  ["UO 25: Allmänna bidrag till kommuner","92 304 002"],
+  ["UO 26: Statsskuldsräntor m.m.","29 326 200"],
+  ["UO 27: Avgiften till Europeiska unionen","40 126 178"]
+]
